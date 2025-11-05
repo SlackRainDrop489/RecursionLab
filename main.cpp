@@ -7,6 +7,14 @@
 using namespace std;
 
 /**
+ *
+ *Author:Quinn Alvine
+ *
+ *
+ *
+
+
+/**
  * @brief Utility function to get a non-negative integer from the user.
  * * This function handles invalid inputs (like text) and ensures the
  * number is not negative.
